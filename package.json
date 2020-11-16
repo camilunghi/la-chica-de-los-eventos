@@ -1,0 +1,19 @@
+{
+  "name": "camicepe-prueba",
+  "version": "0.0.1",
+  "description": "como hacer un meetup",
+  "main": "index.js",
+  "authors": {
+    "name": "Camila",
+    "email": "camicepe@gmail.com"
+  },
+  "repository": "/camicepe prueba",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src -d public"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
