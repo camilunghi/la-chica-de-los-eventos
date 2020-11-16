@@ -1,7 +1,9 @@
+---
 
-# Employer Branding: por qué es importante trabajar en esto desde mi experiencia.
+---
+# Employer Branding: por qué es importante trabajar en esto desde mi experiencia
 
-*Agosto 2020*
+_Agosto 2020_
 
 ![Camila en evento](/employer-branding.jpeg)
 
@@ -13,7 +15,7 @@ Employer branding es un concepto que aprendí investigando que existe algo de lo
 
 Buscando un poco encontré esta definición acerca de employer branding que me parece que representa bastante bien de que se trata:
 
-> “Employer branding is defined as a comprehensive concept to design internal and external employer image with the intention to ameliorate the perception of the company as a preferred employer by existent and futures employees” 
+> “Employer branding is defined as a comprehensive concept to design internal and external employer image with the intention to ameliorate the perception of the company as a preferred employer by existent and futures employees”
 >
 > Ambler & Barrow
 
@@ -31,11 +33,11 @@ La idea de ésta estrategia era salir al mercado contando por qué deberías tra
 
 En la empresa no se había trabajado sobre eso casi en absoluto, entonces ¿cómo empezamos?
 
-- Comunicación en redes sociales. En nuestro caso lo hacíamos en twitter pero cada empresa puede elegir la plataforma que mejor le sirva de acuerdo a su público.
-- Sumamos participación en eventos tanto en meetups como conferencias que nos sirvan para nuestro hiring plan.
-- Creamos un blog para que los equipos escriban posts con experiencias del trabajo.
-- Generamos un espacio de tech talks internas donde todas las semanas alguien compartía algún aprendizaje.
-- Creamos un plan de referidos.
+* Comunicación en redes sociales. En nuestro caso lo hacíamos en twitter pero cada empresa puede elegir la plataforma que mejor le sirva de acuerdo a su público.
+* Sumamos participación en eventos tanto en meetups como conferencias que nos sirvan para nuestro hiring plan.
+* Creamos un blog para que los equipos escriban posts con experiencias del trabajo.
+* Generamos un espacio de tech talks internas donde todas las semanas alguien compartía algún aprendizaje.
+* Creamos un plan de referidos.
 
 Estos son algunas de las cosas que yo cree durante el año y algo en el que estuve en la empresa y les puedo asegurar que ayuda muchísimo que las empresas que necesitan contratar sean visibles en el mercado. Y para esto no es necesario que tengamos un budget infinito (todos sabemos que es difícil convencer a las empresas que inviertan en esto cuando nunca lo hicieron), se pueden hacer diferentes tipos de acciones no tan costosas y ser igual de competitivos que el resto porque lo importante es el cómo y no cuánto.
 
