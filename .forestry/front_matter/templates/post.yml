@@ -3,4 +3,4 @@ label: Post
 hide_body: false
 fields: []
 pages:
-- src/blog/Prueba.md
+- src/blog/prueba.md
