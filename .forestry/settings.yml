@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: "./src"
+  path: src
   label: Contenido
   create: all
   match: "**/*.md"
