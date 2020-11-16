@@ -48,11 +48,11 @@ module.exports = {
           title: 'Blog',
           collapsable: false,
           children: [
-            '',
             'post-employerbranding',
             'charla-freecodecamp',
             'post-nodeconf',
             'como-hacer-meetup',
+            'prueba',
           ]
         }
       ],
